@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.yyxblog.world/2023/08/04/%E7%A7%91%E5%AD%A6%E7%9A%84%E4%B8%8A%E7%BD%91/</loc>
+    <loc>https://www.yyxblog.world/2023/08/04/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
     
     <lastmod>2023-08-04</lastmod>
     
@@ -56,14 +56,14 @@
 
   
   <url>
-    <loc>https://www.yyxblog.world/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <loc>https://www.yyxblog.world/tags/SpringBoot/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yyxblog.world/tags/SpringBoot/</loc>
+    <loc>https://www.yyxblog.world/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -79,14 +79,14 @@
 
   
   <url>
-    <loc>https://www.yyxblog.world/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <loc>https://www.yyxblog.world/categories/SpringBoot/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yyxblog.world/categories/SpringBoot/</loc>
+    <loc>https://www.yyxblog.world/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
     <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
