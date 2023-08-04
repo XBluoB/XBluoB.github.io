@@ -4,9 +4,9 @@ https://www.yyxblog.world/2023/07/27/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%
 https://www.yyxblog.world/categories/index.html
 https://www.yyxblog.world/tags/index.html
 https://www.yyxblog.world/
-https://www.yyxblog.world/tags/SpringBoot/
-https://www.yyxblog.world/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
 https://www.yyxblog.world/tags/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/
-https://www.yyxblog.world/categories/SpringBoot/
-https://www.yyxblog.world/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
+https://www.yyxblog.world/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
+https://www.yyxblog.world/tags/SpringBoot/
 https://www.yyxblog.world/categories/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/
+https://www.yyxblog.world/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
+https://www.yyxblog.world/categories/SpringBoot/
